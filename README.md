@@ -26,7 +26,7 @@ A simple, responsive personal portfolio website showcasing my skills, projects, 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/kissibugum/portfolio-website.git
+   git clone https://github.com/kissibugum/portfolio_website.git
    ```
 2. Open `index.html` in your browser.
 
