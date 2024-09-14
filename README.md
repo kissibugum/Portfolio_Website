@@ -1,4 +1,6 @@
 # Personal Portfolio Website
+A simple, responsive personal portfolio website showcasing my skills, projects, and contact information.
+
 
 ## Link to deployed site on Netlify
 [Visit](https://me-portfolio24.netlify.app/)
@@ -8,8 +10,6 @@
    https://me-portfolio24.netlify.app/
   ```
 
-
-A simple, responsive personal portfolio website showcasing my skills, projects, and contact information.
 
 ## Features
 
