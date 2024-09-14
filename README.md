@@ -38,7 +38,7 @@ A simple, responsive personal portfolio website showcasing my skills, projects, 
 - Update social media links with your profiles.
 
 ## NOTE
-- The site makes perfect use of the hover effect to display all necessary information
+- The site makes perfect use of the hover effect to display all necessary information especially on the projects session
 
 
 ## Contact
