@@ -10,6 +10,10 @@ A simple, responsive personal portfolio website showcasing my skills, projects, 
    https://me-portfolio24.netlify.app/
   ```
 
+## Or on Github Pages
+```
+https://kissibugum.github.io/Portfolio_Website/
+```
 
 ## Features
 
